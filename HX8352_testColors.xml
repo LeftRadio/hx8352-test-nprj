@@ -1,0 +1,761 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:ArrayList id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-2"/>
+<_size>50</_size>
+<_version>14</_version>
+</a1:ArrayList>
+<SOAP-ENC:Array id="ref-2" SOAP-ENC:arrayType="xsd:anyType[50]">
+<item href="#ref-3"/>
+<item href="#ref-4"/>
+<item href="#ref-5"/>
+<item href="#ref-6"/>
+<item href="#ref-7"/>
+<item href="#ref-8"/>
+<item href="#ref-9"/>
+<item href="#ref-10"/>
+<item href="#ref-11"/>
+<item href="#ref-12"/>
+<item href="#ref-13"/>
+<item href="#ref-14"/>
+<item href="#ref-15"/>
+<item href="#ref-16"/>
+<item href="#ref-17"/>
+<item href="#ref-18"/>
+<item href="#ref-19"/>
+<item href="#ref-20"/>
+<item href="#ref-21"/>
+<item href="#ref-22"/>
+<item href="#ref-23"/>
+<item href="#ref-24"/>
+<item href="#ref-25"/>
+<item href="#ref-26"/>
+<item href="#ref-27"/>
+<item href="#ref-28"/>
+<item href="#ref-29"/>
+<item href="#ref-30"/>
+<item href="#ref-31"/>
+<item href="#ref-32"/>
+<item href="#ref-33"/>
+<item href="#ref-34"/>
+<item href="#ref-35"/>
+<item href="#ref-36"/>
+<item href="#ref-37"/>
+<item href="#ref-38"/>
+<item href="#ref-39"/>
+<item href="#ref-40"/>
+<item href="#ref-41"/>
+<item href="#ref-42"/>
+<item href="#ref-43"/>
+<item href="#ref-44"/>
+<item href="#ref-45"/>
+<item href="#ref-46"/>
+<item href="#ref-47"/>
+<item href="#ref-48"/>
+<item href="#ref-49"/>
+<item href="#ref-50"/>
+<item href="#ref-51"/>
+<item href="#ref-52"/>
+</SOAP-ENC:Array>
+<a3:NGL_Color_Sets id="ref-3" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>1</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-55"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-4" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>1</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-56"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-5" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>29</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-57"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-6" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>29</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-58"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-7" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>57</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-59"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-8" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>57</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-60"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-9" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>85</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-61"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-10" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>85</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-62"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-11" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>113</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-63"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-12" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>113</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-64"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-13" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>141</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-65"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-14" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>141</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-66"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-15" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>169</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-67"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-16" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>169</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-68"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-17" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>197</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-69"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-18" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>197</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-70"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-19" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>225</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-71"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-20" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>225</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-72"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-21" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>253</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-73"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-22" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>253</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-74"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-23" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>281</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-75"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-24" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>281</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-76"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-25" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>309</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-77"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-26" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>309</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-78"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-27" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>337</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-79"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-28" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>337</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-80"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-29" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>365</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-81"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-30" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>365</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-82"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-31" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>393</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-83"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-32" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>393</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-84"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-33" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>421</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-85"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-34" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>421</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-86"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-35" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>449</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-87"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-36" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>449</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-88"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-37" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>477</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-89"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-38" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>477</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-90"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-39" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>505</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-91"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-40" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>505</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-92"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-41" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>533</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-93"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-42" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>533</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-94"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-43" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>561</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-95"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-44" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>561</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-96"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-45" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>589</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-97"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-46" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>589</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-98"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-47" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>617</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-99"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-48" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>617</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-100"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-49" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>645</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-101"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-50" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>645</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-102"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-51" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>673</x>
+<y>1</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-103"/>
+</a3:NGL_Color_Sets>
+<a3:NGL_Color_Sets id="ref-52" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<rectangle>
+<x>673</x>
+<y>29</y>
+<width>27</width>
+<height>27</height>
+</rectangle>
+<color href="#ref-104"/>
+</a3:NGL_Color_Sets>
+<a3:UIColor_Type id="ref-55" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-56" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-57" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-58" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-59" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-60" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-61" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-62" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-63" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-64" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-65" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-66" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-67" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-68" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-69" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-70" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-71" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-72" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-73" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-74" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-75" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-76" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-77" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-78" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-79" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-80" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-81" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-82" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-83" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-84" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-85" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-86" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-87" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-88" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-89" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-90" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-91" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-92" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-93" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-94" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-95" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-96" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-97" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-98" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-99" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-100" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-101" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-102" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-103" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+<a3:UIColor_Type id="ref-104" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/NGL_GUI_Creator/NGL%20GUI%20Creator%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_R>255</_R>
+<_G>255</_G>
+<_B>255</_B>
+</a3:UIColor_Type>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
